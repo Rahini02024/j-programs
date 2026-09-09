@@ -20,6 +20,11 @@ The `Daughter` class extends the `Father` class and inherits all the methods fro
 
 ![Father Output](Father_Output.png)
 
+### Conclusion
+
+These Java programs provide a basic understanding of Java programming concepts, class structure, methods, and program execution. They help in developing a strong foundation in Java programming.
+
+
 
 ### 2. Daughter – Inheritance
 
@@ -34,6 +39,11 @@ The `Daughter` class extends the `Father` class. The program creates objects of 
 **Output Screenshot:**
 
 ![Daughter Output](Daughter_Output.png)
+
+### Conclusion
+
+These Java programs provide a basic understanding of Java programming concepts, class structure, methods, and program execution. They help in developing a strong foundation in Java programming.
+
 
 
 ### 3. One – Methods and Return Values
@@ -53,6 +63,10 @@ The `add()` method performs addition and displays the result, while the `add1()`
 
 ![One Output](One_Output.png)
 
+### Conclusion
+
+These Java programs provide a basic understanding of Java programming concepts, class structure, methods, and program execution. They help in developing a strong foundation in Java programming.
+
 
 ### 4. Three – Methods and Objects
 
@@ -71,7 +85,6 @@ The `add()` method displays the sum directly, while the `add1()` method returns 
 
 ![Three Output](Three_Output.png)
 
-
 ## Technologies Used
 
 - Java
@@ -81,3 +94,65 @@ The `add()` method displays the sum directly, while the `add1()` method returns 
 ## Conclusion
 
 These programs provide a basic understanding of Java classes, objects, methods, return values, and inheritance.
+
+## Two.java
+
+### Program
+
+class One {
+    public static void main(String[] ar) {
+
+        System.out.println("Welcome to Java World");
+        System.out.println("Java Full Stack is a primary skill");
+    }
+}
+
+
+### Description
+
+This program demonstrates a basic Java program that displays two messages on the console using the `System.out.println()` statement.
+
+### Techniques Used
+
+* Basic Java programming
+* Class declaration
+* Console output
+* Use of the `main()` method
+* Printing multiple statements
+
+### Concepts Used
+
+* Java Class
+* Main Method
+* Standard Output
+* String
+* Statements
+* Curly braces `{ }`
+
+### Methods Used
+
+**`main()` method:**
+The `main()` method is the entry point of the Java program. Program execution starts from this method.
+
+**`System.out.println()` method:**
+This method is used to print messages to the console, with each message displayed on a new line.
+
+### Output
+
+Welcome to Java World
+Java Full Stack is a primary skill
+
+
+### Technology Used
+
+* Java
+* JDK
+* Command Prompt
+
+##### Conclusion
+
+These Java programs provide a basic understanding of Java programming concepts, class structure, methods, and program execution. They help in developing a strong foundation in Java programming.
+
+
+
+
